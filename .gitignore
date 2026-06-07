@@ -1,0 +1,36 @@
+# 前端
+node_modules/
+dist/
+.vite/
+*.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.geojson
+*.shp
+*.dbf
+*.shx
+
+# Java
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+volumes/
