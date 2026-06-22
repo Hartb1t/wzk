@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "name": "chongqing_pois",
+  "features": [
+    { "type": "Feature", "properties": { "name": "解放碑", "type": "景点", "desc": "重庆市中心地标，抗战胜利纪功碑", "value": 95 }, "geometry": { "type": "Point", "coordinates": [106.577, 29.558] } },
+    { "type": "Feature", "properties": { "name": "洪崖洞", "type": "景点", "desc": "巴渝传统建筑特色的吊脚楼群", "value": 92 }, "geometry": { "type": "Point", "coordinates": [106.576, 29.563] } },
+    { "type": "Feature", "properties": { "name": "南山一棵树观景台", "type": "景点", "desc": "俯瞰重庆夜景的最佳地点", "value": 88 }, "geometry": { "type": "Point", "coordinates": [106.588, 29.527] } },
+    { "type": "Feature", "properties": { "name": "磁器口古镇", "type": "景点", "desc": "千年古镇，巴渝文化缩影", "value": 85 }, "geometry": { "type": "Point", "coordinates": [106.448, 29.580] } },
+    { "type": "Feature", "properties": { "name": "重庆大学", "type": "教育", "desc": "国家985/211重点大学", "value": 90 }, "geometry": { "type": "Point", "coordinates": [106.468, 29.566] } },
+    { "type": "Feature", "properties": { "name": "西南大学", "type": "教育", "desc": "教育部直属重点综合性大学", "value": 87 }, "geometry": { "type": "Point", "coordinates": [106.426, 29.826] } },
+    { "type": "Feature", "properties": { "name": "重庆北站", "type": "交通", "desc": "重庆主要铁路客运站", "value": 80 }, "geometry": { "type": "Point", "coordinates": [106.592, 29.609] } },
+    { "type": "Feature", "properties": { "name": "重庆西站", "type": "交通", "desc": "重庆大型综合交通枢纽", "value": 78 }, "geometry": { "type": "Point", "coordinates": [106.431, 29.510] } },
+    { "type": "Feature", "properties": { "name": "江北国际机场", "type": "交通", "desc": "重庆国际航空枢纽", "value": 93 }, "geometry": { "type": "Point", "coordinates": [106.638, 29.718] } },
+    { "type": "Feature", "properties": { "name": "观音桥步行街", "type": "商业", "desc": "重庆最繁华的商圈之一", "value": 86 }, "geometry": { "type": "Point", "coordinates": [106.545, 29.579] } },
+    { "type": "Feature", "properties": { "name": "三峡广场", "type": "商业", "desc": "沙坪坝核心商圈", "value": 82 }, "geometry": { "type": "Point", "coordinates": [106.458, 29.572] } },
+    { "type": "Feature", "properties": { "name": "时代天街", "type": "商业", "desc": "渝中区大型商业综合体", "value": 84 }, "geometry": { "type": "Point", "coordinates": [106.532, 29.556] } },
+    { "type": "Feature", "properties": { "name": "重庆火锅博物馆", "type": "餐饮", "desc": "展示重庆火锅文化历史", "value": 75 }, "geometry": { "type": "Point", "coordinates": [106.572, 29.567] } },
+    { "type": "Feature", "properties": { "name": "南滨路美食街", "type": "餐饮", "desc": "沿江美食聚集地", "value": 80 }, "geometry": { "type": "Point", "coordinates": [106.584, 29.544] } },
+    { "type": "Feature", "properties": { "name": "较场口夜市", "type": "餐饮", "desc": "重庆传统夜市小吃集中地", "value": 78 }, "geometry": { "type": "Point", "coordinates": [106.572, 29.555] } },
+    { "type": "Feature", "properties": { "name": "鹅岭公园", "type": "公园", "desc": "渝中半岛制高点，城市绿肺", "value": 70 }, "geometry": { "type": "Point", "coordinates": [106.537, 29.561] } },
+    { "type": "Feature", "properties": { "name": "照母山森林公园", "type": "公园", "desc": "北部新区大型城市公园", "value": 72 }, "geometry": { "type": "Point", "coordinates": [106.524, 29.628] } },
+    { "type": "Feature", "properties": { "name": "重庆园博园", "type": "公园", "desc": "第八届中国国际园林博览会会址", "value": 76 }, "geometry": { "type": "Point", "coordinates": [106.554, 29.652] } },
+    { "type": "Feature", "properties": { "name": "朝天门", "type": "景点", "desc": "长江嘉陵江交汇处", "value": 91 }, "geometry": { "type": "Point", "coordinates": [106.587, 29.567] } },
+    { "type": "Feature", "properties": { "name": "李子坝轻轨站", "type": "交通", "desc": "轻轨穿楼而过的网红打卡地", "value": 83 }, "geometry": { "type": "Point", "coordinates": [106.527, 29.562] } },
+    { "type": "Feature", "properties": { "name": "弹子石老街", "type": "景点", "desc": "南岸区历史文化街区", "value": 74 }, "geometry": { "type": "Point", "coordinates": [106.594, 29.555] } },
+    { "type": "Feature", "properties": { "name": "大学城", "type": "教育", "desc": "重庆高等教育聚集区", "value": 81 }, "geometry": { "type": "Point", "coordinates": [106.288, 29.596] } },
+    { "type": "Feature", "properties": { "name": "来福士广场", "type": "商业", "desc": "朝天门地标建筑综合体", "value": 89 }, "geometry": { "type": "Point", "coordinates": [106.586, 29.570] } },
+    { "type": "Feature", "properties": { "name": "长江索道", "type": "景点", "desc": "横跨长江的特色交通工具", "value": 88 }, "geometry": { "type": "Point", "coordinates": [106.582, 29.557] } }
+  ]
+}

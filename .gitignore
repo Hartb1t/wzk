@@ -12,6 +12,7 @@ __pycache__/
 *.pyd
 .env
 *.geojson
+!public/data/*.geojson
 *.shp
 *.dbf
 *.shx
